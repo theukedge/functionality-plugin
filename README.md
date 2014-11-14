@@ -1,4 +1,5 @@
 # Functionality Plugin Template
+[![Build Status](https://travis-ci.org/theukedge/functionality-plugin.svg?branch=master)](https://travis-ci.org/theukedge/functionality-plugin) ![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg) [![GitHub issues](http://img.shields.io/github/issues/theukedge/functionality-plugin.svg)](https://github.com/theukedge/functionality-plugin/issues) [![GitHub tag](http://img.shields.io/github/tag/theukedge/functionality-plugin.svg)](https://github.com/theukedge/functionality-plugin/tags)
 
 This is a basic template for your functionality plugin, setting the stage for you to make changes to your site without risking losing your changes when things get updated.
 
