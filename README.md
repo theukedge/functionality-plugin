@@ -3,7 +3,7 @@
 
 This is a basic template for your functionality plugin, setting the stage for you to make changes to your site without risking losing your changes when things get updated.
 
-This theme is maintained on [GitHub](https://github.com/theukedge/functionality-plugin).
+This plugin is maintained on [GitHub](https://github.com/theukedge/functionality-plugin).
 
 ## How to use this plugin
 
